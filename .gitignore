@@ -16,5 +16,5 @@ pdf_unread/*.pdf
 pdf_done/*.pdf
 md_unread/*.md
 md_done/*.md
-docx_done/*.docx
-docx_done/*.md
+# docx_done/*.docx
+# docx_done/*.md
