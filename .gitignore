@@ -1,0 +1,20 @@
+# Claude Code 本地配置与临时工作树
+.claude/settings.local.json
+.claude/worktrees/
+
+# opencode 本地配置（含 API token，勿提交）
+.opencode/opencode.jsonc
+
+# Python 缓存与临时文件
+__pycache__/
+*.pyc
+scripts/_temp_analysis.json
+scripts/desktop_screenshot.png
+
+# 数据目录内容（目录本身由 .gitkeep 保留）
+pdf_unread/*.pdf
+pdf_done/*.pdf
+md_unread/*.md
+md_done/*.md
+docx_done/*.docx
+docx_done/*.md
